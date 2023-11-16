@@ -151,5 +151,4 @@ In comparison, the price of hosting a server typically starts at **$5.00 per mon
 ## Continue Learning
 
 * [Official documentation](https://aws.amazon.com/getting-started/)
-* [Free YouTube videos](https://www.youtube.com/watch?v=ubCNZRNjhyo)
-* [Udemy Courses](https://www.udemy.com/course/aws-certified-developer-associate/)
+
